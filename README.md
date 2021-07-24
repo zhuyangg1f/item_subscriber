@@ -25,4 +25,4 @@ To set-up deployment-specific `renv` libraries:
 
 # 沟通
 
-如有任何建议请大家通过Issues沟通，请各位大佬随意创建PR并tag我为reviewer
+如有任何建议请大家通过Issues沟通，请各位大佬随意创建PR并tag我为reviewer。请将勿将任何代码merge到main branch，谢谢！
